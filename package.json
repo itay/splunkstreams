@@ -1,0 +1,18 @@
+{
+  "author": "Itay Neeman <ineeman@splunk.com> (dev.splunk.com)",
+  "name": "splunkstream",
+  "description": "Splunk searches exposed as Node.js streams",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/itay/splunkstream.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.6.14"
+  },
+  "dependencies": {
+    "splunk-sdk": ">=0.8.0"  
+  },
+  "devDependencies": {}
+}
