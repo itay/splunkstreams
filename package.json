@@ -1,6 +1,6 @@
 {
   "author": "Itay Neeman <ineeman@splunk.com> (dev.splunk.com)",
-  "name": "splunkstream",
+  "name": "splunkstreams",
   "description": "Splunk searches exposed as Node.js streams",
   "version": "0.0.1",
   "repository": {
